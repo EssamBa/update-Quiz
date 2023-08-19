@@ -1,0 +1,259 @@
+[
+    {
+        "title":"Why we use <br> Element ?",
+        "answer_1":"To make text bold",
+        "answer_2":"To make text Italic",
+        "answer_3":"To add breakLine",
+        "answer_4":"To make Horizontal Line",
+        "right_answer":"To add breakLine"
+    },
+    {
+        "title":"What is the boling point of water ?",
+        "answer_1":"50 C",
+        "answer_2":"40 C",
+        "answer_3":"100 C",
+        "answer_4":"120 C",
+        "right_answer":"100 C"
+    },
+    {
+        "title":"which is the largest river of India ?",
+        "answer_1":"Ganga",
+        "answer_2":"Gomti",
+        "answer_3":"Brahmputra",
+        "answer_4":"Godaveri",
+        "right_answer":"Brahmputra"
+    },
+    {
+        "title":"CharMinar is located in which city ? ",
+        "answer_1":"Delhi",
+        "answer_2":"Hyderabad",
+        "answer_3":"Kolkata",
+        "answer_4":"chennai",
+        "right_answer":"Hyderabad"
+    },
+    {
+        "title":"When was Mahatma Gandhi born ?",
+        "answer_1":"October 2, 1869",
+        "answer_2":"December 15, 1872",
+        "answer_3":"July 18, 1918",
+        "answer_4":"January 15, 1929",
+        "right_answer":"July 18, 1918"
+    },
+    {
+        "title":"When did The Avengers come out ?",
+        "answer_1":"May 2, 2008",
+        "answer_2":"May 4, 2012",
+        "answer_3":"May 3, 2013",
+        "answer_4":"April 4, 2014",
+        "right_answer":"May 2, 2008"
+    },
+    {
+        "title":"Inside which HTML element do we put the JavaScript ??",
+        "answer_1":"<script>",
+        "answer_2":"<javascript>",
+        "answer_3":"<js>",
+        "answer_4":"<scripting>",
+        "right_answer":"<script>"
+    },
+    {
+        "title":"What is the correct syntax for referring to an external script called 'xxx.js'?",
+        "answer_1":"<script href='xxx.js'>",
+        "answer_2":"<script name='xxx.js'>",
+        "answer_3":"<script src='xxx.js'>",
+        "answer_4":"<script file='xxx.js'>",
+        "right_answer":"<script src='xxx.js'>"
+    },
+    {
+        "title":"Why we use <br> Element ?",
+        "answer_1":"To make text bold",
+        "answer_2":"To make text Italic",
+        "answer_3":"To add breakLine",
+        "answer_4":"To make Horizontal Line",
+        "right_answer":"To add breakLine"
+    },
+    {
+        "title":"What is the boling point of water ?",
+        "answer_1":"50 C",
+        "answer_2":"40 C",
+        "answer_3":"100 C",
+        "answer_4":"120 C",
+        "right_answer":"100 C"
+    },
+    {
+        "title":"which is the largest river of India ?",
+        "answer_1":"Ganga",
+        "answer_2":"Gomti",
+        "answer_3":"Brahmputra",
+        "answer_4":"Godaveri",
+        "right_answer":"Brahmputra"
+    },
+    {
+        "title":"CharMinar is located in which city ? ",
+        "answer_1":"Delhi",
+        "answer_2":"Hyderabad",
+        "answer_3":"Kolkata",
+        "answer_4":"chennai",
+        "right_answer":"Hyderabad"
+    },
+    {
+        "title":"When was Mahatma Gandhi born ?",
+        "answer_1":"October 2, 1869",
+        "answer_2":"December 15, 1872",
+        "answer_3":"July 18, 1918",
+        "answer_4":"January 15, 1929",
+        "right_answer":"July 18, 1918"
+    },
+    {
+        "title":"When did The Avengers come out ?",
+        "answer_1":"May 2, 2008",
+        "answer_2":"May 4, 2012",
+        "answer_3":"May 3, 2013",
+        "answer_4":"April 4, 2014",
+        "right_answer":"May 2, 2008"
+    },
+    {
+        "title":"Inside which HTML element do we put the JavaScript ??",
+        "answer_1":"<script>",
+        "answer_2":"<javascript>",
+        "answer_3":"<js>",
+        "answer_4":"<scripting>",
+        "right_answer":"<script>"
+    },
+    {
+        "title":"What is the correct syntax for referring to an external script called 'xxx.js'?",
+        "answer_1":"<script href='xxx.js'>",
+        "answer_2":"<script name='xxx.js'>",
+        "answer_3":"<script src='xxx.js'>",
+        "answer_4":"<script file='xxx.js'>",
+        "right_answer":"<script src='xxx.js'>"
+    },
+    {
+        "title":"Why we use <br> Element?",
+        "answer_1":"To make text bold",
+        "answer_2":"To make text Italic",
+        "answer_3":"To add breakLine",
+        "answer_4":"To make Horizontal Line",
+        "right_answer":"To add breakLine"
+    },
+    {
+        "title":"What is the boling point of water ?",
+        "answer_1":"50 C",
+        "answer_2":"40 C",
+        "answer_3":"100 C",
+        "answer_4":"120 C",
+        "right_answer":"100 C"
+    },
+    {
+        "title":"which is the largest river of India ?",
+        "answer_1":"Ganga",
+        "answer_2":"Gomti",
+        "answer_3":"Brahmputra",
+        "answer_4":"Godaveri",
+        "right_answer":"Brahmputra"
+    },
+    {
+        "title":"CharMinar is located in which city? ",
+        "answer_1":"Delhi",
+        "answer_2":"Hyderabad",
+        "answer_3":"Kolkata",
+        "answer_4":"chennai",
+        "right_answer":"Hyderabad"
+    },
+    {
+        "title":"When was Mahatma Gandhi born?",
+        "answer_1":"October 2, 1869",
+        "answer_2":"December 15, 1872",
+        "answer_3":"July 18, 1918",
+        "answer_4":"January 15, 1929",
+        "right_answer":"July 18, 1918"
+    },
+    {
+        "title":"When did The Avengers come out?",
+        "answer_1":"May 2, 2008",
+        "answer_2":"May 4, 2012",
+        "answer_3":"May 3, 2013",
+        "answer_4":"April 4, 2014",
+        "right_answer":"May 2, 2008"
+    },
+    {
+        "title":"Inside which HTML element do we put the JavaScript??",
+        "answer_1":"<script>",
+        "answer_2":"<javascript>",
+        "answer_3":"<js>",
+        "answer_4":"<scripting>",
+        "right_answer":"<script>"
+    },
+    {
+        "title":"What is the correct syntax for referring to an external script called 'xxx.js'?",
+        "answer_1":"<script href='xxx.js'>",
+        "answer_2":"<script name='xxx.js'>",
+        "answer_3":"<script src='xxx.js'>",
+        "answer_4":"<script file='xxx.js'>",
+        "right_answer":"<script src='xxx.js'>"
+    },
+    {
+        "title":"Why we use <br> Element?",
+        "answer_1":"To make text bold",
+        "answer_2":"To make text Italic",
+        "answer_3":"To add breakLine",
+        "answer_4":"To make Horizontal Line",
+        "right_answer":"To add breakLine"
+    },
+    {
+        "title":"What is the boling point of water?",
+        "answer_1":"50 C",
+        "answer_2":"40 C",
+        "answer_3":"100 C",
+        "answer_4":"120 C",
+        "right_answer":"100 C"
+    },
+    {
+        "title":"which is the largest river of India ?",
+        "answer_1":"Ganga",
+        "answer_2":"Gomti",
+        "answer_3":"Brahmputra",
+        "answer_4":"Godaveri",
+        "right_answer":"Brahmputra"
+    },
+    {
+        "title":"CharMinar is located in which city? ",
+        "answer_1":"Delhi",
+        "answer_2":"Hyderabad",
+        "answer_3":"Kolkata",
+        "answer_4":"chennai",
+        "right_answer":"Hyderabad"
+    },
+    {
+        "title":"When was Mahatma Gandhi born?",
+        "answer_1":"October 2, 1869",
+        "answer_2":"December 15, 1872",
+        "answer_3":"July 18, 1918",
+        "answer_4":"January 15, 1929",
+        "right_answer":"July 18, 1918"
+    },
+    {
+        "title":"When did The Avengers come out?",
+        "answer_1":"May 2, 2008",
+        "answer_2":"May 4, 2012",
+        "answer_3":"May 3, 2013",
+        "answer_4":"April 4, 2014",
+        "right_answer":"May 2, 2008"
+    },
+    {
+        "title":"Inside which HTML element do we put the JavaScript??",
+        "answer_1":"<script>",
+        "answer_2":"<javascript>",
+        "answer_3":"<js>",
+        "answer_4":"<scripting>",
+        "right_answer":"<script>"
+    },
+    {
+        "title":"What is the correct syntax for referring to an external script called 'xxx.js'?",
+        "answer_1":"<script href='xxx.js'>",
+        "answer_2":"<script name='xxx.js'>",
+        "answer_3":"<script src='xxx.js'>",
+        "answer_4":"<script file='xxx.js'>",
+        "right_answer":"<script src='xxx.js'>"
+    }
+    
+]

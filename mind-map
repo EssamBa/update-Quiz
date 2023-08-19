@@ -1,0 +1,20 @@
+create JSON object for question
+-start rating html +styling
+-add dummy data
+-create the styling
+-fetch number of question from json object
+-show question count+question category
+-show the number of bullets depend on question count
+-set the number for the right and wrong answers
+-create count down timmer
+-fetch the question from json object
+-show first question
+-check answer and hide question the show next one
+-if the countdown timeer is end ,mark the question as wrong and show next question
+-add class on bullet after answering the question
+-if question finish show the result
+
+ideas:
+-many json object and choose language
+-add many questions and choose only 10 randomly
+-randomize answers
